@@ -1,8 +1,6 @@
-## 
+## Research Interests 
 
 ---
-
-### Research Interests
 
 * Plasma-material interactions
 * Plasma simulation
@@ -13,10 +11,12 @@
 * Numerical methods
 * High performance computing
 
-### Research Projects 
+## Research Projects 
+
+---
 
 [CRANE: Chemical ReAction NEtwork](/sample_page)
-<img src="images/zdplaskin_comp_ex3.pdf?raw=true"/>
+<img src="images/zdplaskin_comp_ex3.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
