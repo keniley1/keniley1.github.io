@@ -1,31 +1,9 @@
-## This can be your internal website page / project page
+## Developing an Open Source Plasma Simulation Environment in MOOSE
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Project Description** The MOOSE framework is an open source finite element framework that allows developers to quickly write large-scale multiphysics simulations. Applications developed within the framework are natively scalable. 
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+CRANE is a fully open-source plasma chemistry software that may be used to solve chemical reaction networks of arbitrary size. Reactions may be added in a human-readable format, allowing large lists of reactions to be added with ease. Electron-impact reactions
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
 
-### 2. Assess assumptions on which statistical inference will be based
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
-### 3. Support the selection of appropriate statistical tools and techniques
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-### 4. Provide a basis for further data collection through surveys or experiments
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).

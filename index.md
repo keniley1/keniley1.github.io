@@ -1,11 +1,22 @@
-## Portfolio
+## 
 
 ---
 
-### Category Name 1 
+### Research Interests
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+* Plasma-material interactions
+* Plasma simulation
+  - Kinetic Boltzmann simulations
+  - Fluid models
+  - Chemical kinetics
+* Open source software
+* Numerical methods
+* High performance computing
+
+### Research Projects 
+
+[CRANE: Chemical ReAction NEtwork](/sample_page)
+<img src="images/zdplaskin_comp_ex3.pdf?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
@@ -33,3 +44,4 @@
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
+
